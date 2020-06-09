@@ -1,0 +1,13 @@
+C:\Users\aleks\source\repos\FIR_GCRF\FIR_GCRF\bin\Debug\netcoreapp3.1\FIR_GCRF.exe
+C:\Users\aleks\source\repos\FIR_GCRF\FIR_GCRF\bin\Debug\netcoreapp3.1\FIR_GCRF.deps.json
+C:\Users\aleks\source\repos\FIR_GCRF\FIR_GCRF\bin\Debug\netcoreapp3.1\FIR_GCRF.runtimeconfig.json
+C:\Users\aleks\source\repos\FIR_GCRF\FIR_GCRF\bin\Debug\netcoreapp3.1\FIR_GCRF.runtimeconfig.dev.json
+C:\Users\aleks\source\repos\FIR_GCRF\FIR_GCRF\bin\Debug\netcoreapp3.1\FIR_GCRF.dll
+C:\Users\aleks\source\repos\FIR_GCRF\FIR_GCRF\bin\Debug\netcoreapp3.1\FIR_GCRF.pdb
+C:\Users\aleks\source\repos\FIR_GCRF\FIR_GCRF\obj\Debug\netcoreapp3.1\FIR_GCRF.csprojAssemblyReference.cache
+C:\Users\aleks\source\repos\FIR_GCRF\FIR_GCRF\obj\Debug\netcoreapp3.1\FIR_GCRF.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\FIR_GCRF\FIR_GCRF\obj\Debug\netcoreapp3.1\FIR_GCRF.AssemblyInfo.cs
+C:\Users\aleks\source\repos\FIR_GCRF\FIR_GCRF\obj\Debug\netcoreapp3.1\FIR_GCRF.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\FIR_GCRF\FIR_GCRF\obj\Debug\netcoreapp3.1\FIR_GCRF.dll
+C:\Users\aleks\source\repos\FIR_GCRF\FIR_GCRF\obj\Debug\netcoreapp3.1\FIR_GCRF.pdb
+C:\Users\aleks\source\repos\FIR_GCRF\FIR_GCRF\obj\Debug\netcoreapp3.1\FIR_GCRF.genruntimeconfig.cache
